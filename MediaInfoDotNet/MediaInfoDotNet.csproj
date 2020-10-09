@@ -4,10 +4,11 @@
     <RootNamespace>MediaInfoDotNet</RootNamespace>
     <AssemblyName>MediaInfoDotNet</AssemblyName>
     <TargetFrameworks>net45;netstandard20</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     
     <AssemblyTitle>MediaInfoDotNet</AssemblyTitle>
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
-    <Version>0.7.79.40927-beta.1</Version>
+    <Version>0.7.79.40928-drbuild</Version>
 
     <Company>vahanus.net</Company>
     <Product>MediaInfoDotNet</Product>
