@@ -8,7 +8,7 @@
     
     <AssemblyTitle>MediaInfoDotNet</AssemblyTitle>
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
-    <Version>0.7.79.40928-drbuild</Version>
+    <Version>0.7.79.40929-drbuild</Version>
 
     <Company>vahanus.net</Company>
     <Product>MediaInfoDotNet</Product>
